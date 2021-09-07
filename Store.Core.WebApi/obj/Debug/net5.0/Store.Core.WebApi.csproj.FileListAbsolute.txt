@@ -1,0 +1,7 @@
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.WebApi\obj\Debug\net5.0\Store.Core.WebApi.csproj.AssemblyReference.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.WebApi\obj\Debug\net5.0\Store.Core.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.WebApi\obj\Debug\net5.0\Store.Core.WebApi.AssemblyInfoInputs.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.WebApi\obj\Debug\net5.0\Store.Core.WebApi.AssemblyInfo.cs
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.WebApi\obj\Debug\net5.0\Store.Core.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.WebApi\obj\Debug\net5.0\Store.Core.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.WebApi\obj\Debug\net5.0\Store.Core.WebApi.MvcApplicationPartsAssemblyInfo.cache
