@@ -1,0 +1,15 @@
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Business.deps.json
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Business.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\ref\Store.Core.Business.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Business.pdb
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Model.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Model.pdb
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.csproj.AssemblyReference.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.AssemblyInfoInputs.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.AssemblyInfo.cs
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.csproj.CoreCompileInputs.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.csproj.CopyComplete
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\ref\Store.Core.Business.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.pdb
