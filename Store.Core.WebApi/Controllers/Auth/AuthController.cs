@@ -5,7 +5,7 @@ using Store.Core.Business.Handlers.Auth;
 
 namespace Store.Core.WebApi.Controllers.Auth
 {
-    [Route("/api/[Controller]/[action]")]
+    [Route("/api/[controller]/[action]")]
     [ApiController]
     public class AuthController : ControllerBase
     {
@@ -16,6 +16,7 @@ namespace Store.Core.WebApi.Controllers.Auth
             return response;
         }
 
+        [HttpPost]
         public ActionResult<SignInResponse> SignIn(SignInRequest request)
         {
             SignInResponse response = SignInHandler.SignIn(request, this.Request);

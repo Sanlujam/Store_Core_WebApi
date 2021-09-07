@@ -2,7 +2,7 @@
 
 namespace Store.Core.Model.Auth.Response
 {
-    public class SignUpResponsecs : BaseResponse
+    public class SignUpResponse : BaseResponse
     {
     }
 }
