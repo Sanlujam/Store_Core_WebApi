@@ -2,12 +2,13 @@
 using Store.Core.Model.Auth.Request;
 using Microsoft.AspNetCore.Http;
 using System;
+using System.Threading.Tasks;
 
 namespace Store.Core.Business.Handlers.Auth
 {
     public class SignInHandler
     {
-        public static SignInResponse SignIn(SignInRequest request, HttpRequest httpRequest)
+        public static async Task<SignInResponse> SignIn(SignInRequest request, HttpRequest httpRequest)
         {
             SignInResponse response = new SignInResponse();
 
@@ -15,11 +16,12 @@ namespace Store.Core.Business.Handlers.Auth
             {
                 if (ValidateRequest(request))
                 {
-
+                    response = await Data.DAL.UserDAL.login(request);
                 }
             }
             catch (Exception ex)
             {
+                throw ex;
             }
 
             return response;
@@ -27,7 +29,7 @@ namespace Store.Core.Business.Handlers.Auth
 
         private static bool ValidateRequest(SignInRequest request)
         {
-            throw new NotImplementedException();
+            return true;
         }
     }
 }

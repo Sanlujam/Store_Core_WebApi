@@ -1,0 +1,15 @@
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\bin\Debug\net5.0\Store.Core.Data.Connection.deps.json
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\bin\Debug\net5.0\Store.Core.Data.Connection.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\bin\Debug\net5.0\ref\Store.Core.Data.Connection.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\bin\Debug\net5.0\Store.Core.Data.Connection.pdb
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\bin\Debug\net5.0\Store.Core.Utils.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\bin\Debug\net5.0\Store.Core.Utils.pdb
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\Store.Core.Data.Connection.csproj.AssemblyReference.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\Store.Core.Data.Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\Store.Core.Data.Connection.AssemblyInfoInputs.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\Store.Core.Data.Connection.AssemblyInfo.cs
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\Store.Core.Data.Connection.csproj.CoreCompileInputs.cache
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\Store.Core.Data.Connection.csproj.CopyComplete
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\Store.Core.Data.Connection.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\ref\Store.Core.Data.Connection.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Data.Connection\obj\Debug\net5.0\Store.Core.Data.Connection.pdb

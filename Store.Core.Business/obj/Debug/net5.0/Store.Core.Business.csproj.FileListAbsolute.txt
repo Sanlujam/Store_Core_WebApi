@@ -2,8 +2,14 @@ C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\De
 C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Business.dll
 C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\ref\Store.Core.Business.dll
 C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Business.pdb
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Data.Connection.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Data.dll
 C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Model.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Utils.dll
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Data.pdb
 C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Model.pdb
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Data.Connection.pdb
+C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\bin\Debug\net5.0\Store.Core.Utils.pdb
 C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.csproj.AssemblyReference.cache
 C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\alexander.mancera\Proyects\Store.Core.WebApi\Store.Core.Business\obj\Debug\net5.0\Store.Core.Business.AssemblyInfoInputs.cache

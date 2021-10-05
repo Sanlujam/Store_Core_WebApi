@@ -2,6 +2,7 @@
 using Store.Core.Model.Auth.Response;
 using Store.Core.Model.Auth.Request;
 using Store.Core.Business.Handlers.Auth;
+using System.Threading.Tasks;
 
 namespace Store.Core.WebApi.Controllers.Auth
 {
@@ -17,9 +18,9 @@ namespace Store.Core.WebApi.Controllers.Auth
         }
 
         [HttpPost]
-        public ActionResult<SignInResponse> SignIn(SignInRequest request)
+        public async Task<ActionResult<SignInResponse>> SignIn(SignInRequest request)
         {
-            SignInResponse response = SignInHandler.SignIn(request, this.Request);
+            SignInResponse response = await SignInHandler.SignIn(request, this.Request);
             return response;
         }
     }
